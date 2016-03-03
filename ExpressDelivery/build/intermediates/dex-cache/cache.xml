@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="E:\AndroidStudioProjects\ExpressDelivery\app\build\intermediates\pre-dexed\debug\guava-18.0_2278082f4a55f060d3810693875cc9a317826ff9.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\ExpressDelivery\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="E:\AndroidStudioProjects\ExpressDelivery\app\build\intermediates\pre-dexed\debug\com.github.satyan-sugar-1.4_ab635a7e2415a346e8687373416d50e5f68df8b3.jar" />
+    </item>
+
+</items>
